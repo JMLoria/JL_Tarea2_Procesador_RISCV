@@ -5,7 +5,7 @@ Instituto Tecnológico de Costa Rica
 
 CE1107 - Fundamentos de Arquitectura
 
-Proyecto Grupal 1 - Máquinas de estados y protocolo de comunicación SPI
+Tarea 2 - Métricas sobre un procesador RISC V
 
 Integrantes:
 
